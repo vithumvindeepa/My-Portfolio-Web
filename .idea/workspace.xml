@@ -11,8 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a04b9e5-cb45-44e0-b592-669115bddb94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/icons.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/aboutme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/aboutme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/tiwitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/youtube.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +35,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../POS system/POS system" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -93,6 +104,13 @@
       <workItem from="1694504721490" duration="7672000" />
       <workItem from="1694669380033" duration="3299000" />
       <workItem from="1695731691248" duration="867000" />
+      <workItem from="1695799956585" duration="2749000" />
+      <workItem from="1695882800423" duration="16928000" />
+      <workItem from="1696043340307" duration="1196000" />
+      <workItem from="1696045484242" duration="1194000" />
+      <workItem from="1696949109381" duration="7915000" />
+      <workItem from="1697557775434" duration="2443000" />
+      <workItem from="1697619612550" duration="15650000" />
     </task>
     <servers />
   </component>
@@ -112,15 +130,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1694687805606">
+    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1698425763318">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720/1366.-150.1638.874@0.0.1366.720" timestamp="1694687805606" />
-    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1694322993394" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1689246964551">
-      <screen x="0" y="0" width="1366" height="720" />
+    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720/1366.-150.1638.874@0.0.1366.720" timestamp="1698425763318" />
+    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1696043491972" />
+    <state x="1450" y="-150" width="1057" height="706" maximized="true" key="dock-window-1" timestamp="1695973595681">
+      <screen x="1366" y="-150" width="1638" height="874" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.720/1366.-150.1638.874@0.0.1366.720" timestamp="1689246964551" />
+    <state x="1450" y="-150" width="1057" height="706" maximized="true" key="dock-window-1/0.0.1366.720/1366.-150.1638.874@0.0.1366.720" timestamp="1695973595681" />
     <state x="65" y="0" key="new project wizard" timestamp="1689913721203">
       <screen x="0" y="0" width="1366" height="720" />
     </state>

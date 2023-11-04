@@ -1,0 +1,179 @@
+
+
+/*------------------------   Laptop Large Size   --------------------------------------------------------------*/
+
+@media only screen and (max-width: 1440px) {
+
+    body {
+        background-color: #010213;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .fa-brands {
+        padding: 20px;
+        font-size: 30px;
+        width: 30px;
+        border-radius: 50%;
+        background: white;
+        margin: 5px 12px;
+        text-align: center;
+    }
+
+    .social-buttons {
+        position: fixed;
+        top: 10rem;
+    }
+
+    .social-buttons ul {
+        padding: 0;
+        transform: translate(-260px, 0);
+    }
+
+    .social-buttons ul li {
+        background: rgb(90, 90, 90);
+        margin: 5px;
+        width: 300px;
+        padding: 8px;
+        text-align: right;
+        border-radius: 0 30px 30px 0;
+        transition: all 1s;
+    }
+
+    .social-buttons ul li:hover {
+        transform: translate(110px, 0);
+        background-color: gold;
+    }
+
+    .social-buttons ul li i {
+        color: #010213;
+        width: 20px;
+        height: 20px;
+        transform: rotate(0deg);
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    .social-buttons ul li:hover i {
+        transform: rotate(360deg);
+        transition: all 1s;
+        color: white;
+    }
+
+    .social-buttons ul li:hover .fa-facebook {
+        background: #0247fe;
+    }
+
+    .social-buttons ul li:hover .fa-linkedin {
+        background: #00bfff;
+    }
+
+    .social-buttons ul li:hover .fa-instagram {
+        background: #da1d81;
+    }
+
+    .social-buttons ul li:hover .fa-twitter {
+        background: #00b7eb;
+    }
+
+    .social-buttons ul li:hover .fa-youtube {
+        background: #ff0000;
+    }
+
+    .social-buttons ul li:hover .fa-github {
+        background: #333333;
+    }
+
+}
+
+/*------------------------   Laptop Size   --------------------------------------------------------------*/
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+/*------------------------   Tablet Size   --------------------------------------------------------------*/
+
+@media only screen and (max-width: 768px) {
+
+}
+
+/*------------------------   Mobile Large Size   --------------------------------------------------------------*/
+
+
+@media only screen and (max-width: 425px) {
+
+}
+
+/*------------------------   Mobile Medium Size   --------------------------------------------------------------*/
+
+
+@media only screen and (max-width: 375px) {
+
+    body{
+        background-color: #00b7eb;
+    }
+
+    .social-buttons ul li i{
+        color: #010213;
+        width: 21px;
+        height: 18px;
+        transform: rotate(0deg);
+        padding: 1px;
+        font-size: 15px;
+    }
+
+}
+
+/*------------------------   Mobile Small Size   --------------------------------------------------------------*/
+
+
+@media only screen and (max-width: 320px) {
+
+    body {
+        background-color: chartreuse;
+    }
+
+    .social-buttons ul li i {
+        color: #010213;
+        width: 21px;
+        height: 18px;
+        transform: rotate(0deg);
+        padding: 1px;
+        font-size: 15px;
+    }
+
+    .social-buttons ul {
+        padding: 0;
+        transform: translate(-282px, 0);
+    }
+
+    .fa-brands {
+        padding: 20px;
+        font-size: 16px;
+        width: 30px;
+        border-radius: 50%;
+        background: white;
+        margin: 5px 12px;
+        text-align: center;
+    }
+
+    .social-buttons ul li {
+        margin: 4px;
+    }
+
+    .social-buttons ul li:hover {
+        transform: translate(80px, 0);
+    }
+
+}
+
+
+
+
+
+
